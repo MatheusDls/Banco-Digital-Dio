@@ -1,5 +1,5 @@
 
-public abstract class Conta implements Iconta {
+public abstract class Conta implements AcoesBanco {
 
     private static final int AGENCIA_PADRAO = 1;
     private static int SEQUENCIAL = 1;

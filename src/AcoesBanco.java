@@ -1,5 +1,5 @@
 
-public interface Iconta {
+public interface AcoesBanco {
 
     void sacar(double valor);
 
